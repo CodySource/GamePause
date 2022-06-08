@@ -1,0 +1,11 @@
+{
+  "name": "com.codysource.gamepause",
+  "version": "1.0.0",
+  "displayName": "Game Pause",
+  "description": "This package enables the ability to create a global (non-time-based) pause feature.",
+  "unity": "2020.3",
+  "unityRelease": "15f2",
+  "author": {
+    "name": "Cody Source"
+  }
+}
